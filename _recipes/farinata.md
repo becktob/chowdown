@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Farinata"
-(image: todo.jpg)
+image: farinata.jpg
 tags: vegetarian
 
 ingredients:

@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Chocolate Chip Cookies"
-(image: todo.jpg)
+image: chocolate-chip.jpg
 tags: vegetarian
 
 ingredients:
