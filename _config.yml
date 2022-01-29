@@ -2,12 +2,12 @@
 title: Chowdown Fork
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: ""
-language: "en"
+baseurl: "/chowdown"  # https://stackoverflow.com/questions/27386169/change-site-url-to-localhost-during-jekyll-local-development
+language: "de"
 lang_direction: "ltr"
 color: "#007FFF"
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username:
+github_username:  becktob
 
 # Build settings
 markdown: kramdown
