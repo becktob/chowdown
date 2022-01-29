@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Dampfnudeln"
-(image: todo.jpg)
+image: dampfnudeln.jpg
 tags: vegetarian
 yield: 6 Stück (4-6 Personen)
 

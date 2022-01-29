@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Cantuccini"
-(image: todo.jpg)
+image: cantuccini.jpg
 tags: vegetarian
 
 ingredients:

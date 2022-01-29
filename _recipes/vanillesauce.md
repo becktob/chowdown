@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Vanillesauce"
-(image: todo.jpg)
+image: vanillesauce.jpg
 tags: vegetarian
 
 ingredients:
