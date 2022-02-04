@@ -4,7 +4,6 @@ layout: recipe
 title: "Sugo"
 (image: todo.jpg)
 
-
 ingredients:
 - 30 g Olivenöl
 - 3 Knoblauchzehen
@@ -13,10 +12,10 @@ ingredients:
 - Paprikapulver
 
 directions:
-- Knoblauchzehen abziehen und fein hacken und in einem Topf mit Olivenöl anbraten
-- Tomatenpampe in den Topf hinzufügen und mit Oregano und Paprikapulver würzen
-- Sugo einkochen und beiseitestellen
-
+- Knoblauchzehen abziehen und fein hacken
+- Koblauch und Oregano in Olivenöl erhitzen, bis es lecker duftet, aber ohne dass der Knoblauch hölzern braun wird.
+- Tomatenpampe in den Topf hinzufügen und Paprikapulver würzen
+- Sugo eine Weile einkochen, bis sich das Volumen deutlich reduziert hat.
 
 ---
 

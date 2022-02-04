@@ -12,7 +12,7 @@ ingredients:
 directions:
 - Während der Teig geht, Sugo zubereiten und einkochen
 - Nach Ablauf der Gehzeit Teig mit Öl in eine rechteckige Form geben und verteilen, weitere 30 Minuten ruhen lassen
-- Teig mit Sugo bestreichen und belegen
+- Teig mit Sugo bestreichen und nach Belieben belegen
 - Pan Pizza für ca. 12-15 Minuten im vorgeheizten Ofen auf der mittleren Schiene bei 290 °C backen
 
 components:
