@@ -19,7 +19,7 @@ ingredients:
 
 directions:
 - Zucker, Butter, Ei und fast alles Eiweiß schaumig schlagen. Ein halbes Eiweiß aufheben.
-- Mehl und Backpulver vermischer, nach Belieben Zimt und Zitronenschale
+- Mehl und Backpulver vermischen, nach Belieben Zimt und Zitronenschale
 - Mehl unter die Eimasse rühren, Nüsse dazu.
 - Mit gut mehligen Händen vier schmale, lange Laibe formen.
 - Mit Eiweiß glänzend einpinseln. 
