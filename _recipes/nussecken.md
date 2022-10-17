@@ -7,6 +7,7 @@ tags: vegetarian
 
 ingredients:
 - "Teig:"
+- 300 g Mehl
 - 130 g Butter
 - 130 g Zucker
 - 2 Eier
