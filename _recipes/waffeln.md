@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Knusprige Waffeln"
-#image: todo.jpg
+image: waffeln.jpg
 tags: vegetarian
 
 ingredients:
@@ -23,8 +23,6 @@ directions:
 - Kurz trocken/abkühlen lassen
 
 --- 
-    
-Jahrelang erprobt. 
-Beim Digitalisieren 2025 mit einer gewissen Wehmut...
 
 Die Menge passt typischerweise für drei Menschen.
+Jahrelang erprobt, auch für 6, 9 und 12.
