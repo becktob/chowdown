@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Janinakuchen"
-(image: todo.jpg)
+image: janinakuchen.jpg
 tags: dessert
 
 ingredients:
