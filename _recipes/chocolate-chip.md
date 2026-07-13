@@ -28,7 +28,7 @@ directions:
 - Stunden/Tage in den Kühlschrank
 - Ofen auf 165° C
 - Tischtennisgroße Kugeln formen, mit etwas Abstand auf ein Blech.
-- ca. 15 Minuten backen: die kalten Kugeln zerlaufen und erstarren genau im richtigen Durchmesser
+- "ca. 15 Minuten backen: die kalten Kugeln zerlaufen und erstarren genau im richtigen Durchmesser"
 - Rausholen, wenn der Rand knusprig wird und die Mitte noch weich ist.
 
 --- 
