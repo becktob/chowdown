@@ -3,12 +3,12 @@
 layout: recipe
 title: "Chocolate Chip Cookies"
 image: chocolate-chip.jpg
-tags: vegetarian
+tags: vegetarian, vegan
 
 ingredients:
 - 250 g Butter
 - 125 g Zucker
-- 2 Eier (L)
+- 2 Eier (L), oder 20g Chia in 150g Wasser pürieren
 - 1 Pckg Vanillezucker
 - 125 g brauner Zucker (grob)
 - 320 g Mehl
@@ -19,7 +19,7 @@ ingredients:
 directions:
 - Butter in einer Pfanne schmelzen und anbräunen
 - Butter auf Körpertemperatur abkühlen lassen
-- Zucker, Vanillezucker und Eier schaumig schlagen
+- Zucker, Vanillezucker und Eier/Chiapampe schaumig schlagen
 - Butter, Eizucker und braunen Zucker grob verrühren
 - Mehl, Natron und Salz gut vermischen
 - Schokolade hacken
